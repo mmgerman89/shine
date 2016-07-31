@@ -47,3 +47,6 @@ gem 'devise'
 
 # Bower
 gem 'bower-rails'
+
+# Faker
+gem 'faker'
