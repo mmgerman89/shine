@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'customer/index'
+
   devise_for :users
   get 'dashboard/index'
 
